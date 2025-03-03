@@ -101,7 +101,7 @@ The framework has applications across multiple domains:
 - Matplotlib
 - Scikit-learn
 
-## Project Structure
+## Project Structure Road-Map
 
 ```
 recursive-cognition/
